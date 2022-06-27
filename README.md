@@ -1,1 +1,4 @@
 # Remote-Cardiac-Activity-Monitoring-System-with-a-GUI
+
+Monitoring cardiac activity is of great importance for diagnosing cardiac irregularities but physicians can't observe a patient throughly due to time and geographical contraints. To solve this, I have created a remote cardiac activity monitoring system using a microcontroller which reads activity data and send it to a server. In the server side, activity is recorded, analysed and inferred on using Deep Neural Network model. A physician can both examine cardiac activity throighout the day or infer from our machine interpretation. 
+[![Watch this video]](https://www.linkedin.com/posts/mainul-islam-labib-4a70771a7_a-web-based-real-time-cardiac-activity-monitoring-activity-6929850675619127296-g5yo?utm_source=linkedin_share&utm_medium=member_desktop_web)
